@@ -1,7 +1,7 @@
 .footer-basic {
     padding: 40px 0;
     background-color: #fff;
-    color: #4b4c4d
+    color: #6A5638
 }
 
 .footer-basic ul {
@@ -18,7 +18,7 @@
 }
 
 .footer-basic ul a {
-    color: inherit;
+    color: #4F1F28;;
     text-decoration: none;
     opacity: .8
 }
@@ -42,7 +42,7 @@
     border-radius: 50%;
     border: 1px solid #ccc;
     margin: 0 8px;
-    color: inherit;
+    color: #4F1F28;;
     opacity: .75
 }
 
@@ -87,18 +87,18 @@
 }
 
 .team-boxed {
-    color: #313437;
+    color: #4F1F28;
     background-color: #eef4f7
 }
 
 .team-boxed p {
-    color: #7d8285
+    color: #4F1F28;
 }
 
 .team-boxed h2 {
     font-weight: 700;
     padding-top: 40px;
-    color: inherit
+    color: #4F1F28;
 }
 
 @media (max-width:767px) {
@@ -138,13 +138,13 @@
     font-weight: 700;
     margin-top: 28px;
     margin-bottom: 8px;
-    color: inherit
+    color: #4F1F28;
 }
 
 .team-boxed .item .title {
     text-transform: uppercase;
     font-weight: 700;
-    color: #d0d0d0;
+    color: #4F1F28;
     letter-spacing: 2px;
     font-size: 13px
 }
@@ -161,11 +161,11 @@
 
 .team-boxed .social {
     font-size: 18px;
-    color: #a2a8ae
+    color: #4F1F28;
 }
 
 .team-boxed .social a {
-    color: inherit;
+    color: #4F1F28;;
     margin: 0 10px;
     display: inline-block;
     opacity: .7
